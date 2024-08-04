@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/breadcrumb/static/css/main.1d766016.css",
+    "main.js": "/breadcrumb/static/js/main.b2438578.js",
+    "index.html": "/breadcrumb/index.html",
+    "main.1d766016.css.map": "/breadcrumb/static/css/main.1d766016.css.map",
+    "main.b2438578.js.map": "/breadcrumb/static/js/main.b2438578.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d766016.css",
+    "static/js/main.b2438578.js"
+  ]
+}
